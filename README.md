@@ -75,12 +75,6 @@ Görevler: Veri tabanı yönetimi, backend/frontend geliştirme, coğrafi analiz
 
 ---
 
-### 💼 ALNIVA (E-Ticaret) (01/02/2023 – Present)  
-📍 Wyoming, ABD  
-Amazon ABD pazarında Private Label modeliyle 2 ürün üzerinden satış yapmaktayım.
-
----
-
 ## 💻 Tech Stack & Tools
 
 ### 🖥️ Languages
